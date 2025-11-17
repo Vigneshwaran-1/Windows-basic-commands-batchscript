@@ -24,24 +24,20 @@ Execute the necessary commands/batch file for the desired output.
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 git
-<<<<<<< HEAD
+
 
 ![alt text](<Screenshot 2025-11-17 214820.png>)
-=======
-![alt text](image-1.png)
->>>>>>> 5814c98c3bba7e599518a133ba8152112bad5634
+
 
 ## COMMAND AND OUTPUT
 
 Remove the directory "my-folder"
 dir
 
-<<<<<<< HEAD
-![alt text](<Screenshot 2025-11-17 213713.png>)
-=======
-![alt text](image.png)
 
->>>>>>> 5814c98c3bba7e599518a133ba8152112bad5634
+![alt text](<Screenshot 2025-11-17 213713.png>)
+
+
 
 ## COMMAND AND OUTPUT
 
@@ -60,20 +56,14 @@ dir Rose.txt
 Create the file hello.txt using echo and redirection
 
 ![alt text](<Screenshot 2025-11-17 211631.png>)
-<<<<<<< HEAD
-=======
 
->>>>>>> 5814c98c3bba7e599518a133ba8152112bad5634
+
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
 
 ![alt text](<Screenshot 2025-11-17 211701.png>)
-<<<<<<< HEAD
-=======
-
->>>>>>> 5814c98c3bba7e599518a133ba8152112bad5634
 
 
 ## COMMAND AND OUTPUT
@@ -101,10 +91,6 @@ Create a batch file named on the desktop. The batch file need to have a variable
 ## OUTPUT
 
 ![alt text](<Screenshot 2025-11-17 212237.png>)
-<<<<<<< HEAD
-=======
-
->>>>>>> 5814c98c3bba7e599518a133ba8152112bad5634
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
 Prompt the user to enter a number.
@@ -119,7 +105,6 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 ## OUTPUT
 ![alt text](<Screenshot 2025-11-17 212434.png>)
 
-![alt text](<Screenshot 2025-11-17 212434.png>)
 
 
 
